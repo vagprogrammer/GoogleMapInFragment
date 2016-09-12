@@ -1,0 +1,22 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=8B:09:E7:51:64:96:2C:A1:7C:9A:17:39:CD:8C:BF:5B:9B:DE:D6:5D%3Bcom.javic.pokewhere
+
+    You can also add your credentials to an existing key, using this line:
+    8B:09:E7:51:64:96:2C:A1:7C:9A:17:39:CD:8C:BF:5B:9B:DE:D6:5D;com.javic.pokewhere
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <!--8B:09:E7:51:64:96:2C:A1:7C:9A:17:39:CD:8C:BF:5B:9B:DE:D6:5D-->
+    <string name="google_maps_key_home_imac" templateMergeStrategy="preserve" translatable="false">AIzaSyCyoGDgLhhhvVcUiHsFr2F7Q49e9z6M5gA</string>
+
+
+</resources>

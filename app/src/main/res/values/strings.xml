@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">FragmentMap</string>
+
+    <!-- Navigation Drawer -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <!-- Menu actions -->
+    <string name="action_settings">Settings</string>
+    <string name="action_start_service">Ver en segundo plano</string>
+    <string name="action_test_user">Test User</string>
+    <string name="action_voice_rec">action voice rec</string>
+    <string name="action_location">Ir a mi ubicación</string>
+    <string name="action_filter">Filtrar </string>
+
+    <!-- User Location -->
+    <string name="service_not_available">El Servicio no está disponible</string>
+    <string name="invalid_lat_long_used">Latitud y Longitud invalida</string>
+    <string name="no_address_found">No econtramos la dirección</string>
+    <string name="address_found">Address founded</string>
+    <string name="no_geocoder_available">Geocoder is not aviable</string>
+
+    <!-- Fragment Map -->
+    <string name="location_alert_title">Error al obtener ubicación</string>
+    <string name="location_alert_message">PokeWhere no pudo obtener tu ubicación, intentalo nuevamente o muevete por el mapa</string>
+    <string name="location_alert_pos_btn">Inténtalo de nuevo</string>
+    <string name="location_alert_neg_btn">Cancelar</string>
+    <string name="location_alert_error">Ah currido un error, por favor intentalo más tarde!</string>
+    <string name="snack_bar_neg_btn">Detener</string>
+
+    <string name="permission_access_coarse_location">Access location permission is needed for providing get pokemons.</string>
+    <string name="action_snack_permission_access_coarse_location">Aceptar permiso</string>
+
+    <string name="permission_alert_title">Servicios de ubicación desactivados</string>
+    <string name="permission_alert_message">Para el correcto funcionamiento de la aplicación, es necesario que los servicios de ubicación esten activados, puedes activarlos desde los Settings de la aplicación</string>
+    <string name="open_location_settings">Activar Servicios de Ubicación</string>
+
+    <string name="message_json_request_succes_1">¡Hemos encontrado</string>
+    <string name="message_json_request_succes_2">pokemons a tu alrededor, atrápalos a todos!</string>
+    <string name="message_json_request_empty">Por ahora no hay ningún pokémon cerca, vuelve a intentarlo más tarde!</string>
+    <string name="message_json_request_error">Ha ocurrido un error, vuelve a intentarlo más tarde!</string>
+    <string name="message_snackbar_searching_text">Buscando pokémons...</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
